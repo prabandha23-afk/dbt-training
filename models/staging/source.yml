@@ -18,3 +18,5 @@ sources:
       tables:
           - name: payment
             description: payment details of an order id.
+          - name: customer_address
+            description: customer details of an order id.
